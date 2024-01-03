@@ -14,19 +14,19 @@
 <h2 align="center">Skills</h2>
 <div align="center">
   
-    - Strong knowledge of React, Redux, and Next.js for front-end development
+          - Strong knowledge of React, Redux, and Next.js for front-end development
  
-    - Experience with Node.js, Express, and SQL for back-end development
+          - Experience with Node.js, Express, and SQL for back-end development
 
-    - Skilled in API development and integration
+          - Skilled in API development and integration
 
-    - Good understanding of SQL databases, such as MySQL and PostgreSQL
+          - Good understanding of SQL databases, such as MySQL and PostgreSQL
  
-    - Familiar with Git and version control systems
+          - Familiar with Git and version control systems
 
-    - Knowledgeable in CSS frameworks, such as Bootstrap and Tailwind
+          - Knowledgeable in CSS frameworks, such as Bootstrap and Tailwind
 
-    - Experienced in using testing frameworks such as Jest
+          - Experienced in using testing frameworks such as Jest
   <div align="center">
     <h4>Lenguages and Tools:</h4>
     <table>
@@ -66,14 +66,14 @@
 <h2 align="center">Projects</h2>
 <div align="center">
   <h4>Here are some of my recent projects that demonstrate my skills as a Full Stack Developer:</h4>
+
+  <!-- Project 1: BFS -->
   <table width="500">
     <tr>
       <td align="center">
         <a href="https://bfsonline.vercel.app">Deploy</a>
       </td>
     </tr>
-  </table>
-  <table width="500">
     <tr>
       <td>
         <h3 align="center">BFS</h3>
@@ -82,12 +82,13 @@
     <tr>
       <td>
         <a href="https://bfsonline.vercel.app">
+          <img src="URL_DE_LA_IMAGEN" alt="BFS Project Screenshot">
         </a>
       </td>
     </tr>
-    <tr>
-    </tr>
   </table>
+
+  <!-- Project 2: Countries App -->
   <table width="500">
     <tr>
       <td>
@@ -97,11 +98,12 @@
     <tr>
       <td>
         <a href="https://pi-countries-front-topaz.vercel.app/">
+          <img src="URL_DE_LA_IMAGEN" alt="Countries App Project Screenshot">
         </a>
       </td>
     </tr>
   </table>
-     </div>
+</div>
 </div>
 </div>
 
