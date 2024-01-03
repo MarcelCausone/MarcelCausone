@@ -70,20 +70,8 @@
   <!-- Project 1: BFS -->
   <table width="500">
     <tr>
-      <td align="center">
-        <a href="https://bfsonline.vercel.app">Deploy</a>
-      </td>
-    </tr>
-    <tr>
       <td>
-        <h3 align="center">BFS</h3>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://bfsonline.vercel.app">
-          <img src="URL_DE_LA_IMAGEN" alt="BFS Project Screenshot">
-        </a>
+        <a href="https://bfsonline.vercel.app">BFS</a>
       </td>
     </tr>
   </table>
@@ -92,14 +80,7 @@
   <table width="500">
     <tr>
       <td>
-        <h3 align="center">Countries App</h3>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://pi-countries-front-topaz.vercel.app/">
-          <img src="URL_DE_LA_IMAGEN" alt="Countries App Project Screenshot">
-        </a>
+        <a href="https://pi-countries-front-topaz.vercel.app/">BFS</a>
       </td>
     </tr>
   </table>
