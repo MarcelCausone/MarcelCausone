@@ -80,7 +80,7 @@
   <table width="500">
     <tr>
       <td>
-        <a href="https://pi-countries-front-topaz.vercel.app/">BFS</a>
+        <a href="https://pi-countries-front-topaz.vercel.app/">Countires App</a>
       </td>
     </tr>
   </table>
