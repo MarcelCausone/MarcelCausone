@@ -12,9 +12,9 @@
 
 &nbsp;
 <h2 align="center">Skills</h2>
-<div align="center">
+<div >
   
-          - Strong knowledge of React, Redux, and Next.js for front-end development
+         - Strong knowledge of React, Redux, and Next.js for front-end development
  
           - Experience with Node.js, Express, and SQL for back-end development
 
