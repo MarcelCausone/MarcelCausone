@@ -94,8 +94,6 @@
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=MarcelCausone&show_icons=true&theme=dracula"/>
   <br/>
   <br/>
-  <img width="450"  align="center" src="https://streak-stats.demolab.com/?user=MarcelCausone&theme=dracula"/>
-  <br/>
   <br/>
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelCausone&theme=dracula&layout=compact" />
   
