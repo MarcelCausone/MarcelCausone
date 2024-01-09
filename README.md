@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHNhHuuksWU8A/profile-displaybackgroundimage-shrink_350_1400/0/1674254423593?e=1681948800&v=beta&t=COhPX4SWjQoRijSNfIcSmFK58_I0EWKQZRQBOcgeFRY">
+
 
 <h1 align="center">Hi 👋, I'm Marcel Causone - Full Stack Developer</h1>
 
